@@ -17,3 +17,4 @@
 # -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session10_Ex03
 # -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session10_Ex04
 # -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session10_Ex05
+# -HCM-KS26-CNTT1-_-Nh-p-M-n-C-ng-Ngh-Th-ng-Tin-_Session10_Ex06
